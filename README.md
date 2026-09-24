@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 [README.md](https://github.com/user-attachments/files/32596179/README.md)
+=======
+>>>>>>> 213dd75 (update)
 # SPSKladno 
 
 ## Nastavení VS Code a GIT ve školním prostředí
